@@ -2,7 +2,6 @@ __pycache__/
 *.pyc
 .DS_Store
 *.bak*
-appv2.py
 *.docx
 *.pdf
 .streamlit/secrets.toml
